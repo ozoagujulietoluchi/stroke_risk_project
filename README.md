@@ -1,4 +1,4 @@
-Stroke Risk Prediction Project
+# Stroke Risk Prediction Project
 Predicting stroke occurrence using machine learning techniques based on medical and lifestyle factors. 
 
 ## Overview
