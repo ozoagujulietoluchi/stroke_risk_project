@@ -1,26 +1,35 @@
 Stroke Risk Prediction Project
-This project focuses on predicting stroke risk using healthcare data and machine learning techniques. The aim is to analyze different health indicators and build a model that can identify individuals at high risk of stroke
+Predicting stroke occurrence using machine learning techniques based on medical and lifestyle factors. 
+
+## Overview
+This project aims to build a predictive model for stroke occurrence using a dataset containing various medical and lifestyle features. The goal is to identify individuals at high risk of stroke and enable early intervention.
+
+## Dataset
+- Source: (https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
+- Features/input parameters: age, gender, hypertension, heart disease, BMI, glucose level, smoking status, etc.
+- Target: stroke occurrence (binary)
+  
 ## Project Tasks
-- Data cleaning and preprocessing
+- Data cleaning 
 - Exploratory Data Analysis (EDA)
-- Feature scaling
-- Machine learning model training
+- Pre-processing (Feature Encoding/Feature Scaling/Train-Test-Split)
+- Machine learning model training (Baseline Training / Hyperparameter tuning)
 - Model evaluation
+  
 ## Tools Used
-- Python
+- Jupyter Notebook (Python)
 - Pandas
 - NumPy
 - Scikit-learn
 - Matplotlib / Seaborn
-- Jupyter Notebook
-- This repository is for group collaboration. All team members should contribute by uploading their assigned work, improving the analysis, and updating project files.
+  
 - ## Team Members
-- Favour
-- Oluwasegu
+- Favour Okolie
+- Oluwasegun
 - Milkah Nduku Mutua 
 - Olufunke
-- Abdulmumin
-- Olanrewaj
+- Abdulmumin Abidoye
+- Olanrewaju
 - Juliet Ozoagu
 - Nurudeen
 - Joelina
